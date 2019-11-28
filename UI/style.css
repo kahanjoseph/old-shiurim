@@ -1,0 +1,36 @@
+.hidden_selector{
+    display: none;
+}
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color:  rgba(255,255,255,.75);
+    height: 40px;
+}
+#audioContainer {
+    min-height: 500px;
+}
+a[dropboxurl = ""] {
+    text-decoration: none;
+    cursor: default;
+    color: #cdcdce;
+    pointer-events: none;
+}
+#loading-img{
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+.centered-img{
+    margin: 0 auto;
+    display: block;
+}
+@media only screen and (max-width: 991px){
+    /*#searchAudios{
+        display: block;
+        width: 100%;
+        margin-top: 10px;
+    }*/
+}

@@ -1,0 +1,5 @@
+/vendor
+error_log
+/.vscode
+/media
+/utils/dropboxApp.php

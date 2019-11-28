@@ -1,0 +1,6 @@
+{
+    "name": "lenovo/shiurim",
+    "require": {
+        "kunalvarma05/dropbox-php-sdk": "^0.2.1"
+    }
+}
